@@ -1,4 +1,4 @@
-# Section 13: Optimizing the Image Size
+# Section 12: Optimizing the Image Size
 
 ## Why Image Size Matters
 1. **Speed** — smaller images pull from the registry much faster.

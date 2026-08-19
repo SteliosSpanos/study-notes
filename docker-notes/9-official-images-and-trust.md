@@ -1,4 +1,4 @@
-# Section 10: Official Images and Trust
+# Section 9: Official Images and Trust
 
 ## Chapter Goal
 Move from "just making things work" to **best practices**: understanding image size choices (e.g. Alpine vs Ubuntu) and the risks of running containers as `root` — both flagged earlier but deferred until now.

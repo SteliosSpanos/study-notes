@@ -1,4 +1,4 @@
-# Section 12: Using a Non-Root User
+# Section 11: Using a Non-Root User
 
 ## Why This Matters
 - By default, processes inside a container run as **root**.

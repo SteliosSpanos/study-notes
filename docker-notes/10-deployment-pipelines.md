@@ -1,4 +1,4 @@
-# Section 11: Deployment Pipelines
+# Section 10: Deployment Pipelines
 
 ## CI/CD Basics
 - **CI/CD pipeline** (deployment pipeline) is a cornerstone of DevOps.
